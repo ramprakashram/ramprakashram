@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramprakashram&label=Profile%20views&color=0e75b6&style=flat" alt="ramprakashram" /> </p>
 
-- 💬 Ask me about **Javascript, CSS, Angular and React**
+- 💬 Ask me about **Javascript, Typescript, CSS, React and Angular**
 
 - 📫 How to reach me **connect2ramprakash@gmail.com**
 
